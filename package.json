@@ -18,7 +18,7 @@
   },
   "publishConfig": {
    "@Chandra-Garimella:registry": "https://npm.pkg.github.com"
- }
+ },
   "homepage": "https://github.com/Chandra-Garimella/exercise-publish-package#readme",
   "dependencies": {
     "@actions/core": "^1.4.0",
