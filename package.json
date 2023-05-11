@@ -1,5 +1,5 @@
 {
-  "name": @Chandra-Garimella/exercise-publish-package,
+  "name": "@Chandra-Garimella/exercise-publish-package",
   "version": "1.0.0",
   "description": "Local exercise action to verify the desire commit was removed",
   "main": "index.js",
@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/Chandra-Garimella/exercise-publish-package/issues"
   },
+  "publishConfig": {
+   "@Chandra-Garimella:registry": "https://npm.pkg.github.com"
+ }
   "homepage": "https://github.com/Chandra-Garimella/exercise-publish-package#readme",
   "dependencies": {
     "@actions/core": "^1.4.0",
